@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/-ÉDITION_CRÂNE_EXPLOSEUR-000000?style=for-the-badge&logo=death-star&logoColor=red">
 </div>
 
-![Interface Neurale](https://github.com/heyilljas7/WarzoneExternalCheat/assets/170230554/fe430c67-6d11-4bdb-80cd-7e947a7abd9c)
+![image](https://github.com/user-attachments/assets/8af38548-8f07-46ce-8392-bd77c667f212)
+
 
 ## 🧠 Modules de Guerre Cybernétique
 ```lua
